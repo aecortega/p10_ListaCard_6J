@@ -25,5 +25,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Resultado
 
-![image](https://github.com/aecortega/p10_ListaCard_6J/assets/143548446/62115ee6-433c-44f3-9e17-f95cd313a67c)
+![image](https://github.com/aecortega/p10_ListaCard_6J/assets/143548446/88971570-6b21-4d5b-af05-6c747235b635)
+
 
